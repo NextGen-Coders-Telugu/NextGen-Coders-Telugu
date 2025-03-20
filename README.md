@@ -19,14 +19,8 @@
 ### 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.youtube.com/c/nextgencartoons16" target="_blank">
+  <a href="https://youtube.com/@nextgencartoons16?si=-0Qocm3Em6L4GOnt" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-  <a href="https://t.me/nextgencodertelugu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/your-instagram-handle" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </div>
 
