@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Pranay</h1>
-  <h3>Full-Stack Developer | Mobile App Enthusiast</h3>
+  <h3>🚀 Full-Stack Developer | 📱 Mobile App Enthusiast</h3>
   
   <img src="https://komarev.com/ghpvc/?username=nextgen-coders-telugu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </div>
@@ -9,76 +9,77 @@
 
 ### 👨‍💻 About Me
 
-- 🌟 Passionate about creating innovative mobile and web solutions
-- 📱 Specializing in Android & Cross-platform development
-- 🤝 All my projects are showcased on [Telegram](https://t.me/nextgencodertelugu)
-- 📫 Reach me at: [Telegram](https://t.me/nextgencodertelugu)
+- 🌟 Passionate about building innovative **Mobile & Web Apps**
+- 💼 Skilled in **Full-Stack Development** & Cross-platform apps
+- 📱 Focused on **Android, Flutter, React Native, and PHP Projects**
+- 🎯 Currently working on cool tools & live projects
+- 🤝 Find my work on [Telegram](https://t.me/nextgencodertelugu)
+- 📫 Reach me anytime: [@nextgencodertelugu](https://t.me/nextgencodertelugu)
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect with Me
 
 <div align="center">
+  <a href="https://t.me/nextgencodertelugu" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
   <a href="https://youtube.com/@nextgencartoons16?si=-0Qocm3Em6L4GOnt" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ Tech Stack
 
-#### Languages & Frameworks
-<div align="left">
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
+#### 🧠 Languages & Tools
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" height="50" alt="Android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="Flutter"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" height="50" alt="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code"/>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nextgen-coders-telugu&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nextgen-coders-telugu&show_icons=true&theme=transparent&hide_border=false" alt="GitHub Stats"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=nextgen-coders-telugu&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nextgen-coders-telugu&theme=transparent" alt="GitHub Streak"/>
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nextgen-coders-telugu&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextgen-coders-telugu&layout=compact&theme=transparent" alt="Top Languages"/>
 </div>
+
+---
+
+### 🧩 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nextgen-coders-telugu&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15" />
+</div>
+
+---
+
+### 📌 Projects & Highlights
+
+- ✅ Building a professional **App Store**, OTT platform, blogging system & tools dashboard.
+- ⚒️ Focused on **Material 3 UI/UX**, responsive mobile-first designs.
+- 🌈 Creating powerful tools using **HTML, JS, Flutter, PHP, MySQL** and more.
 
 ---
 
 <div align="center">
-  <p>💡 Always learning, always coding!</p>
+  <h3>💡 Always curious. Always building.</h3>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
 </div>
