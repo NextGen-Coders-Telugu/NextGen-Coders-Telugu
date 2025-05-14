@@ -63,13 +63,6 @@
 
 ---
 
-### 🧩 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nextgen-coders-telugu&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15" />
-</div>
-
----
 
 ### 📌 Projects & Highlights
 
